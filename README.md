@@ -61,4 +61,4 @@
 <p>Sinta-se à vontade para contribuir com melhorias, sugestões ou correções. Abra um <strong>issue</strong> ou envie um <strong>pull request</strong>!</p>
 
 <h2>🌟 Agradecimentos</h2>
-<p>Agradeço a todos que contribuíram para o desenvolvimento deste projeto e a Rafaella Ballerini por sua inspiração e ensinamentos.</p>
+<p>Agradeço a Rafaella Ballerini por sua inspiração e ensinamentos.</p>
