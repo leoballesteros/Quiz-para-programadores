@@ -32,7 +32,6 @@
 <ul>
     <li><strong>HTML5</strong>: Estruturação do conteúdo.</li>
     <li><strong>CSS3</strong>: Estilização e animações.</li>
-    <li><strong>JavaScript</strong>: Adição de interatividade ao quiz (se aplicável).</li>
     <li><strong>GitHub Pages</strong>: Hospedagem do projeto.</li>
 </ul>
 
